@@ -1,18 +1,26 @@
 export const cards = [
   {
     id: '1',
-    back: '🐶',
+    back: '💣',
   },
   {
     id: '2',
-    back: '🐔',
+    back: '💌',
   },
   {
     id: '3',
-    back: '🐸',
+    back: '👻',
   },
   {
     id: '4',
-    back: '🐍',
+    back: '🤖',
+  },
+  {
+    id: '5',
+    back: '👽',
+  },
+  {
+    id: '6',
+    back: '👾',
   },
 ];
